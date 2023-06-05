@@ -1,0 +1,23 @@
+{
+  "name": "cel-shading",
+  "version": "1.0.0",
+  "description": "Toon exploration",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "orbit-controls-es6": "2.0.0",
+    "uniforms-gui": "0.0.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "cel",
+    "shader",
+    "uniformsgui",
+    "toon"
+  ]
+}
